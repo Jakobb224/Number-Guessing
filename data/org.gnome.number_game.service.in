@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.gnome.number_game
+Exec=@bindir@/guesanumber --gapplication-service

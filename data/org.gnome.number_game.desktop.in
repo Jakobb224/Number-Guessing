@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=guesanumber
+Exec=guesanumber
+Icon=org.gnome.number_game
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
